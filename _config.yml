@@ -2,11 +2,9 @@
 #
 
 # Site settings
-title: 装逼需要勇气，会装需要能力
+title: 测试一下标题
 description: |
-  Science
-  Photography
-  Blog
+  博客主题 （副标题）
 owner: Xiaoshi Zhang # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
 email: zxs19901004@gmail.com
